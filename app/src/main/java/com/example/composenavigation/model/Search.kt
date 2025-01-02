@@ -40,10 +40,7 @@ private val searchCategoryCollections = listOf(
                 name = "Fruit snacks",
                 imageRes = R.drawable.fruit,
             ),
-            SearchCategory(
-                name = "Desserts",
-                imageRes = R.drawable.desserts
-            ),
+
             SearchCategory(
                 name = "Nuts",
                 imageRes = R.drawable.nuts,
